@@ -1,0 +1,12 @@
+Package: freesweep
+Version: 0.90-3
+Section: Game and Amusement
+Priority: optional
+Architecture: amd64
+Maintainer: Ubuntu MOTU Developers (ubuntu-motu@lists.ubuntu.com)
+Description: a test-based minesweeper
+ Freesweep is an implementation of the popular minesweeper game, where 
+ one tries to find all the mines without igniting any, based on hints given
+ by the computer. unlike most implementation of this game, Freesweep
+ works in any visual test display - in linux console, in an xterm, and in
+ most text-based terminals currently in use.

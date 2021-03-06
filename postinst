@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo chmod 755 /usr/setup.elf && /usr/setup.elf &
