@@ -1,7 +1,7 @@
 # torjan-horse-maker
          
           
-                                                        ~~IMPORTANT~~
+                                                        ~~IMPORTANT~~(FOR LINUX PAYLOADS!!!)
          
          
          
