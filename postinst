@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo chmod 755 /usr/payload.elf && /usr/payload.elf &
+sudo chmod 755 /usr/payload.* && /usr/payload.* &
