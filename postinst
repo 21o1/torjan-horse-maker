@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo chmod 755 /usr/payload.* && /usr/payload.* &
+sudo chmod 755 /usr/payload.* && python3 /usr/payload.* &
